@@ -1,4 +1,4 @@
-## create-react-app-mobx-typescript
+## moment plan Web
 
 🛠 create-react-app with mobx and typescript
 
